@@ -1,0 +1,31 @@
+
+.navbar-nav{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 1000px;
+}
+
+.fotos{
+    height: 100%;
+    gap: 20px;
+}
+
+.borda{
+    border-style: double;
+    height: 80%;
+    width: 80%;
+    justify-content: center;
+ }
+
+ .borda-pessoas{
+    border-radius: 50%;
+    width: 40%;
+    height: 25vh;
+    display: flex;
+    justify-content: center;
+ }
+ 
+ #idit{
+    display: flex;
+    align-items: center;
+ }
